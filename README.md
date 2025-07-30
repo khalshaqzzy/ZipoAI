@@ -6,6 +6,12 @@
 
 <h1 align="center">Zipo - Platform Pembelajaran AI Personal Anda</h1>
 
+<p align="center">
+  <a href="https://zipoai.site" target="_blank"><strong>Live Demo</strong></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="#--fitur-utama">Fitur</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="#--panduan-instalasi--penggunaan">Instalasi</a>
+</p>
+
 Zipo adalah platform pembelajaran multimodal yang dirancang untuk mengubah materi pelajaran pasif menjadi sebuah dialog konversasional yang aktif, visual, dan personal. Aplikasi ini lahir dari kebutuhan untuk menciptakan pengalaman belajar yang lebih adaptif, melampaui keterbatasan platform berbasis teks dengan mengintegrasikan beberapa mode interaksi secara sinergis.
 
 Dengan inspirasi dari kerangka belajar **VARK (Visual, Auditory, Reading/Writing, Kinesthetic)**, Zipo tidak mengotak-ngotakkan pengguna, melainkan menyediakan alat yang fleksibel untuk mendukung berbagai preferensi belajar dalam satu antarmuka terpadu.
